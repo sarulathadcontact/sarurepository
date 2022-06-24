@@ -1,0 +1,9 @@
+{
+	"name": "trailadfsl",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4f1f35f4-133d-4b5b-8f24-0a65889fc0c9",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
